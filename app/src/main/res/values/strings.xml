@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tortuga</string>
+    <string name="tv">Tortugas</string>
+    <string name="imagen"></string>
+    <string name="txt_button1">Donatello</string>
+    <string name="txt_button2">Leonardo</string>
+    <string name="txt_button3">Migel Angel</string>
+    <string name="txt_button4">Raphael</string>
+</resources>
